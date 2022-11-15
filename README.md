@@ -17,4 +17,5 @@ To start the application, in both directories run:
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Screenshot 2022-11-15 112951](https://user-images.githubusercontent.com/102370224/201896976-a26b5213-343b-4dd4-9fb4-76cce99e8cc1.jpg)
+
+![Screenshot 2022-11-15 114955](https://user-images.githubusercontent.com/102370224/201901680-76ea98ae-1e48-40e1-8eb7-3e087bca254c.jpg)
